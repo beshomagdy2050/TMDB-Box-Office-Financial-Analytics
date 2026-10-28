@@ -1,0 +1,124 @@
+{
+  "name": "Cinematic Executive Navy Theme",
+  "dataColors": [
+    "#2563EB",
+    "#0D9488",
+    "#1E293B",
+    "#D97706",
+    "#4F46E5",
+    "#0284C7",
+    "#7C3AED",
+    "#E11D48",
+    "#059669",
+    "#EA580C"
+  ],
+  "background": "#E9EEF5",
+  "foreground": "#172B4D",
+  "tableAccent": "#2563EB",
+  "good": "#0D9488",
+  "neutral": "#D97706",
+  "bad": "#E11D48",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI Bold",
+      "color": "#172B4D"
+    },
+    "title": {
+      "fontSize": 13,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#172B4D"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#172B4D"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#475569"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#DCE4F0"
+              }
+            },
+            "radius": 14,
+            "width": 1
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "preset": "Center",
+            "shadowBlur": 12,
+            "shadowSpread": 1,
+            "transparency": 82
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontSize": 13,
+            "fontColor": {
+              "solid": {
+                "color": "#172B4D"
+              }
+            },
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "padding": [
+          {
+            "top": 12,
+            "bottom": 12,
+            "left": 14,
+            "right": 14
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E9EEF5"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E9EEF5"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
