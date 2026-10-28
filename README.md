@@ -55,13 +55,13 @@ This project resolves four core analytical and data engineering challenges for s
 The interactive Power BI report ([`04_PowerBI_Dashboard/TMDB.pbix`](04_PowerBI_Dashboard/TMDB.pbix) and PDF export [`04_PowerBI_Dashboard/TMDB.pdf`](04_PowerBI_Dashboard/TMDB.pdf)) is styled with the custom **Cinematic Executive Navy Theme** ([`TMDB_Executive_Theme.json`](04_PowerBI_Dashboard/TMDB_Executive_Theme.json)) and structured across three executive views:
 
 ### Page 1: Executive & Financial Overview
-![Power BI Dashboard Preview 1](05_Visuals/dashboard_preview1.png)
+![Power BI Dashboard Preview 1](05_Visuals/dashboard_preview1.jpg)
 
 ### Page 2: Talent, Studios & Global Markets
-![Power BI Dashboard Preview 2](05_Visuals/dashboard_preview2.png)
+![Power BI Dashboard Preview 2](05_Visuals/dashboard_preview2.jpg)
 
 ### Page 3: Content, Marketing & Audience Drivers
-![Power BI Dashboard Preview 3](05_Visuals/dashboard_preview3.png)
+![Power BI Dashboard Preview 3](05_Visuals/dashboard_preview3.jpg)
 
 ---
 
